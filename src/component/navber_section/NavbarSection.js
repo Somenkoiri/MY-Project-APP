@@ -21,10 +21,10 @@ function NavbarSection() {
       <ul className="menu" id="menu">
         <li>💡<a href="/">Home</a></li>
         <li>
-          🛠️ <a>Project ▼</a>
+          🛠️ <a>Details ▼</a>
           <ul className="dropdown">
-            <li>🔗<a href="https://github.com/Somenkoiri">GitHub</a></li>
-            <li>🔗<a href="https://youtube.com/@somenoyt?si=V8dR5FSi20Y6bgYh">YouTube</a></li>
+            <li>🔗<a href="/my-profile-github">GitHub</a></li>
+            <li>🔗<a href="/youtube-profile">YouTube</a></li>
             <li>💬<a>somenkoiri0701@gmail.com</a></li>
           </ul>
         </li>

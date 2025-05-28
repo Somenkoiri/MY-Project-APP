@@ -1,7 +1,23 @@
 .container {
   padding: 40px;
   text-align: center;
+  animation: fadeIn 1s ease-in-out;
+  opacity: 0;
+  animation-fill-mode: forwards;
 }
+
+/* Keyframes for fade-in effect */
+@keyframes fadeIn {
+  0% {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
 
 .grid {
   display: grid;
@@ -24,7 +40,7 @@
 }
 
 .box img {
-  width: 100px;
+  width: 200px;
   height: 100px;
   margin-bottom: 15px;
 }

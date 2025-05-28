@@ -1,10 +1,16 @@
 import React from 'react'
 import './style.css'
+import InfoSkoiri from '../info_sk/InfoSkoiri';
+import SkillsData from '../info_sk/SkillsData';
+
 
 function ProjectBox() {
   return (
     <>
-    <h1>Project Box</h1>
+    <div className='projectMainBox'>
+      <InfoSkoiri />
+      <SkillsData />
+    </div>
     </>
 
   )
