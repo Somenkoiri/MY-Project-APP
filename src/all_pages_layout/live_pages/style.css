@@ -62,3 +62,12 @@
 .freamGithub::-webkit-scrollbar-thumb:hover {
   background-color: #00ff99;
 }
+.route-link {
+  text-decoration: none;
+  color: #2b2f36;
+  font-size: 20px;
+}
+
+.route-link:hover{
+  text-decoration: underline;
+}

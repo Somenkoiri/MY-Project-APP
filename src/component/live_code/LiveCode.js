@@ -14,7 +14,7 @@ function LiveCode() {
     <div className="box dev">1.
       <img src={projectImg} alt="Developing" />
       <h3>↪Developer Work↩</h3>
-      <p>Learn web and app development from scratch.</p>
+      <p>All Developer Code Work ( Management System ) All Website To Include This Project | Build : React JS | Only For Developers Use.</p>
       <a href="/developer-code-work-live">Start Live🔎→</a>
     </div>
 
@@ -37,6 +37,12 @@ function LiveCode() {
       <h3>↪Netflix Clone↩</h3>
       <p>How to Build a Netflix Clone Using Html Css || Best Netflix Clone ||.</p>
       <a href="/netflix-clone-live">Start Live🔎→</a>
+    </div>
+    <div className="box explore">5.
+      <img src={projectImg} alt="Explore" />
+      <h3>↪MY Profile App↩</h3>
+      <p>Build MY Profile App Using Html Css JS Frontend : ( React Js ) ||.</p>
+      <a href="/">Start Code🔎→</a>
     </div>
     <hr></hr>
    <hr></hr>

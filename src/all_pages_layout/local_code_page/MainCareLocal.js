@@ -9,7 +9,7 @@ function MainCareLocal() {
   <span className="typing-text">( MainCare_HMS (PHP) )</span>
 </div>
          <iframe
-        src="https://github.com/Somenkoiri/MainCare_HMS"
+        src="https://github.com/Somenkoiri/MainCare_HMS.git"
         className="freamGithub"
         title="MainCare"
       />

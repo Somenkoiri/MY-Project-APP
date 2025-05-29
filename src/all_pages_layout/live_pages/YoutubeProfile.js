@@ -9,7 +9,7 @@ function YoutubeProfile() {
   <span className="typing-text">(My YouTube Profile )</span>
 </div>
          <iframe
-        src="https://youtube.com/@somenoyt?si=V8dR5FSi20Y6bgYh"
+        src="https://youtube.com/@somenoyt?si=Mke7mIW22tfj973H"
         className="freamGithub"
         title="YouTubeProfile"
       />

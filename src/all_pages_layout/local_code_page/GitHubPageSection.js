@@ -9,7 +9,7 @@ function GitHubPageSection() {
   <span className="typing-text">( My GitHub Profile )</span>
 </div>
          <iframe
-        src="https://github.com/Somenkoiri"
+        src="https://github.com/somenkoiri"
         className="freamGithub"
         title="GitHub"
       />

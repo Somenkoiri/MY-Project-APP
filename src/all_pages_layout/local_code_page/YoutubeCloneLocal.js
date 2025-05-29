@@ -9,7 +9,7 @@ function YoutubeCloneLocal() {
   <span className="typing-text">( YouTube Clone Code )</span>
 </div>
          <iframe
-        src="https://github.com/Somenkoiri/YouTube-Clone"
+        src="https://github.com/Somenkoiri/YouTube-Clone.git"
         className="freamGithub"
         title="YouTube"
       />

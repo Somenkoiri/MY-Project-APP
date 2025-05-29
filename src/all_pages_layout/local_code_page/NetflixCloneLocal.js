@@ -9,7 +9,7 @@ function NetflixCloneLocal() {
   <span className="typing-text">( Netflix Clone Code )</span>
 </div>
          <iframe
-        src="https://github.com/Somenkoiri/Netflix-Clone-in"
+        src="https://github.com/Somenkoiri/Netflix-Clone-in.git"
         className="freamGithub"
         title="Netflix"
       />

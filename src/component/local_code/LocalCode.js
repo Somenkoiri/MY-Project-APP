@@ -14,41 +14,47 @@ function LocalCode() {
     <div className="box dev">1.
       <img src={projectImg} alt="Developing" />
       <h3>↪Developer Work↩</h3>
-      <p>Learn web and app development from scratch.</p>
-      <a href="/developer-code-work-local">Start Code🔎→</a>
+      <p>All Developer Code Work ( Management System ) All Website To Include This Project | Build : React JS | Only For Developers Use.</p>
+      <a href="https://github.com/Somenkoiri/Developer-Work-.git">Start Code🔎→</a>
     </div>
 
     <div className="box design">2.
       <img src={projectImg} alt="Designing" />
       <h3>↪MainCare HMS(PHP)↩</h3>
       <p>MainCare ( HMS ) || Create Website in Html , CSS , JS , Backend ( PHP , MYSQL ) , JQUERY.</p>
-      <a href="/main-care-local">Start Code🔎→</a>
+      <a href="https://github.com/Somenkoiri/MainCare_HMS.git">Start Code🔎→</a>
     </div>
 
     <div className="box ai">3.
       <img src={projectImg} alt="AI and ML" />
       <h3>↪Car Booking Website↩</h3>
       <p>How to Build a Car Booking Website Using Html , CSS , JS , PHP , MYSQL , JQUERY.</p>
-      <a href="/car-booking-website">Start Code🔎→</a>
+      <a href="https://github.com/Somenkoiri/Car-Booking-Website.git">Start Code🔎→</a>
     </div>
 
     <div className="box explore">4.
       <img src={projectImg} alt="Explore" />
       <h3>↪Hospital HMS(Java)↩</h3>
       <p>Hospital Management System Using Java ( core , JDBC , Swing GUI ) and Database( MYSQL) In Code Editor ( Netbeans ).</p>
-      <a href="/hospital-java-local">Start Code🔎→</a>
+      <a href="https://github.com/Somenkoiri/Hospital-HMS-.git">Start Code🔎→</a>
     </div>
      <div className="box explore">5.
       <img src={projectImg} alt="Explore" />
       <h3>↪Netflix Clone↩</h3>
       <p>How to Build a Netflix Clone Using Html Css || Best Netflix Clone ||.</p>
-      <a href="/netflix-clone">Start Code🔎→</a>
+      <a href="https://github.com/Somenkoiri/Netflix-Clone-in.git">Start Code🔎→</a>
     </div>
      <div className="box explore">6.
       <img src={projectImg} alt="Explore" />
       <h3>↪YouTube Clone↩</h3>
       <p>How to Build a YouTube Clone Using Html Css || Best YouTube Clone ||.</p>
-      <a href="/youtube-clone-code">Start Code🔎→</a>
+      <a href="https://github.com/Somenkoiri/YouTube-Clone.git">Start Code🔎→</a>
+    </div>
+     <div className="box explore">7.
+      <img src={projectImg} alt="Explore" />
+      <h3>↪MY Profile App↩</h3>
+      <p>Build MY Profile App Using Html Css JS Frontend : ( React Js ) ||.</p>
+      <a href="https://github.com/Somenkoiri/MY-Project-APP.git">Start Code🔎→</a>
     </div>
      <hr></hr>
    <hr></hr>

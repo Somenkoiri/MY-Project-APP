@@ -9,7 +9,7 @@ function DeveloperCodeLocal() {
   <span className="typing-text">( Developer Code Work )</span>
 </div>
          <iframe
-        src="https://github.com/Somenkoiri/Developer-Work-"
+        src="https://github.com/Somenkoiri/Developer-Work-.git"
         className="freamGithub"
         title="developer"
       />

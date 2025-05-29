@@ -9,7 +9,7 @@ function HospitalJavaLocal() {
   <span className="typing-text">( Hospital HMS (Java) )</span>
 </div>
          <iframe
-        src="https://github.com/Somenkoiri/Hospital-HMS-"
+        src="https://github.com/Somenkoiri/Hospital-HMS-.git"
         className="freamGithub"
         title="Hospital"
       />

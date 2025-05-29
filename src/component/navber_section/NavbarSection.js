@@ -23,8 +23,8 @@ function NavbarSection() {
         <li>
           🛠️ <a>Details ▼</a>
           <ul className="dropdown">
-            <li>🔗<a href="/my-profile-github">GitHub</a></li>
-            <li>🔗<a href="/youtube-profile">YouTube</a></li>
+            <li>🔗<a href="https://github.com/somenkoiri">GitHub</a></li>
+            <li>🔗<a href="https://youtube.com/@somenoyt?si=Mke7mIW22tfj973H">YouTube</a></li>
             <li>💬<a>somenkoiri0701@gmail.com</a></li>
           </ul>
         </li>
