@@ -56,6 +56,13 @@ function LocalCode() {
       <p>Build MY Profile App Using Html Css JS Frontend : ( React Js ) ||.</p>
       <a href="https://github.com/Somenkoiri/MY-Project-APP.git">Start Code🔎→</a>
     </div>
+
+     <div className="box dev">8.
+      <img src={projectImg} alt="Developing" />
+      <h3>↪My Code System↩</h3>
+      <p>My Code Management System ( Management System ) Code Include This Project | Build : React JS | Only Me Use.</p>
+      <a href="https://github.com/Somenkoiri/my_code_system.git">Start Code🔎→</a>
+    </div>
      <hr></hr>
    <hr></hr>
   </div>

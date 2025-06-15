@@ -16,6 +16,7 @@ import YoutubeCloneLive from './all_pages_layout/live_pages/YoutubeCloneLive';
 import NetflixCloneLive from "./all_pages_layout/live_pages/NetflixCloneLive";
 import YoutubeProfile from "./all_pages_layout/live_pages/YoutubeProfile";
 import MyProfileSite from "./all_pages_layout/live_pages/MyProfileSite";
+import MyCodeSystem from "./all_pages_layout/live_pages/MyCodeSystem";
  
 
 function App() {
@@ -39,6 +40,7 @@ function App() {
         <Route path="/netflix-clone-live" element={<NetflixCloneLive />} />
         <Route path="/youtube-profile" element={<YoutubeProfile />} />
        <Route path="/my-profile-site" element={<MyProfileSite />} />
+       <Route path="/my-code-system" element={<MyCodeSystem />} />
      
 
       </Routes>
